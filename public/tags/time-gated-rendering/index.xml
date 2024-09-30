@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time-Gated Rendering | Guangyan Cai&#39;s Homepage</title>
+    <link>https://example.com/tags/time-gated-rendering/</link>
+      <atom:link href="https://example.com/tags/time-gated-rendering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Time-Gated Rendering</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Time-Gated Rendering</title>
+      <link>https://example.com/tags/time-gated-rendering/</link>
+    </image>
+    
+    <item>
+      <title>Differentiable time-gated rendering</title>
+      <link>https://example.com/publication/wu-differentiable-timegated-rendering-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wu-differentiable-timegated-rendering-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

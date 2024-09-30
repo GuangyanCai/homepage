@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | Guangyan Cai&#39;s Homepage</title>
+    <link>https://example.com/publication_types/article-journal/</link>
+      <atom:link href="https://example.com/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Article-Journal</title>
+      <link>https://example.com/publication_types/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>Physics‐Based Inverse Rendering using Combined Implicit and Explicit Geometries</title>
+      <link>https://example.com/publication/cai-physics-based-inverse-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/cai-physics-based-inverse-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable time-gated rendering</title>
+      <link>https://example.com/publication/wu-differentiable-timegated-rendering-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wu-differentiable-timegated-rendering-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytic spherical harmonic gradients for real-time rendering with many polygonal area lights</title>
+      <link>https://example.com/publication/wu-analytic-spherical-harmonic-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wu-analytic-spherical-harmonic-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

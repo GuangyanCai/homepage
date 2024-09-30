@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Guangyan Cai&#39;s Homepage</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Projects</title>
+      <link>https://example.com/project/</link>
+    </image>
+    
+    <item>
+      <title>irtk</title>
+      <link>https://example.com/project/irtk/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/irtk/</guid>
+      <description>&lt;p&gt;&lt;code&gt;irtk&lt;/code&gt; (&lt;strong&gt;I&lt;/strong&gt;nverse &lt;strong&gt;R&lt;/strong&gt;endering &lt;strong&gt;T&lt;/strong&gt;ool&lt;strong&gt;k&lt;/strong&gt;it) is designed to simplify the process of conducting inverse rendering experiments with differentiable renderers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>isoext</title>
+      <link>https://example.com/project/isoext/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/isoext/</guid>
+      <description>&lt;p&gt;A Python library designed for efficient isosurface extraction, leveraging the power of GPU computing and comes with pytorch support. &lt;code&gt;isoext&lt;/code&gt;  implements a collection of classic isosurface extraction algorithms.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

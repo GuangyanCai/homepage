@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D Reconstruction | Guangyan Cai&#39;s Homepage</title>
+    <link>https://example.com/tags/3d-reconstruction/</link>
+      <atom:link href="https://example.com/tags/3d-reconstruction/index.xml" rel="self" type="application/rss+xml" />
+    <description>3D Reconstruction</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>3D Reconstruction</title>
+      <link>https://example.com/tags/3d-reconstruction/</link>
+    </image>
+    
+    <item>
+      <title>PBIR-NIE: Glossy Object Capture under Non-Distant Lighting</title>
+      <link>https://example.com/publication/cai-pbirnie-glossy-object-2024/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/cai-pbirnie-glossy-object-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural-PBIR Reconstruction of Shape, Material, and Illumination</title>
+      <link>https://example.com/publication/sun-neural-pbir-reconstruction-shape-2023/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sun-neural-pbir-reconstruction-shape-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics‐Based Inverse Rendering using Combined Implicit and Explicit Geometries</title>
+      <link>https://example.com/publication/cai-physics-based-inverse-2022/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/cai-physics-based-inverse-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
